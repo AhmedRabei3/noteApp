@@ -1,6 +1,6 @@
 # simple note 
 
-## how to use install this app?
+## how to use this app?
 
 after downloading file you open it in vs code or any text editor 
 and run npm install  to get all the dependencies.
