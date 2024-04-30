@@ -1,4 +1,4 @@
-# sample note 
+# simple note 
 
 ## how to use install this app?
 
