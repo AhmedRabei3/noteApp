@@ -1,0 +1,15 @@
+echo "node_modules/" >>.gitignore
+
+# This is a sample.gitignore file
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore npm debug logs
+npm-debug.log
